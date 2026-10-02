@@ -43,7 +43,7 @@ Research interests include computer vision, explainable artificial intelligence,
 
 ## Technologies
 
-**Languages:** Python · TypeScript · SQL  - C++
+**Languages:** Python · TypeScript · SQL · C++  
 **Backend:** FastAPI · PostgreSQL  
 **Frontend:** Next.js · React · Tailwind CSS  
 **Automation:** Playwright · Selenium  
